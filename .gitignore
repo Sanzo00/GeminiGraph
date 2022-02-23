@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+
+# dirs
+tmp/
+
+# exe
+toolkits/*
+!/toolkits/*.cppls
+inputs/convert
+
+# .gr
+*.gr
